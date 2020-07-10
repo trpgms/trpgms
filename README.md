@@ -1,16 +1,13 @@
-### Hi there 👋
+# 하는 일
 
-<!--
-**trpgms/trpgms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+웹서비스 개발을 하고 있습니다.
 
-Here are some ideas to get you started:
+# 좋아하는 일
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+맥주마시기. 크래프트맥주 특히 Belgian Lambic 을 좋아합니다. Oude Geuze 좋아~
+
+# 했던 일
+
+게임서버 , 쿠폰발행 , 은행관련 다 개발뿐 ㅠㅠ 
+
+
